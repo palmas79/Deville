@@ -22,6 +22,12 @@ header{
   background-repeat: no-repeat;
 }
 
+.titulo{
+    color: whitesmoke;
+    text-align: center;
+    padding: 30px;
+}
+
 .Arriba{
     display: flex;
     height: 30px;
@@ -40,9 +46,12 @@ header{
     display: flex;;
     justify-content: center;
     gap: 120px;
+    color: whitesmoke;
+    font-size: 1.4rem;
 
 }
 
+<<<<<<< HEAD
 /*Aca empieza el main*/
 /* Section Black*/
 
@@ -51,4 +60,10 @@ header{
   margin-top: 2rem;
   justify-content: space-between;
 
+=======
+
+.fotosred{
+    width: 1140px;
+    height: 635px;
+>>>>>>> e373ddf34134775e26953594834b1ab9c5c1bf97
 }
