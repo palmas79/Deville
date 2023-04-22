@@ -13,11 +13,17 @@ body{
 
 }
 header{
-  height: 600px;
+  height: 100%;
   background-image: url(./img/DEVILLE_2756.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+}
+
+.titulo{
+    color: whitesmoke;
+    text-align: center;
+    padding: 30px;
 }
 
 .Arriba{
@@ -38,5 +44,7 @@ header{
     display: flex;;
     justify-content: center;
     gap: 120px;
+    color: whitesmoke;
+    font-size: 1.4rem;
 
 }
