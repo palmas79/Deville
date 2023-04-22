@@ -58,7 +58,11 @@ header{
   display: flex;
   margin-top: 2rem;
   justify-content: space-between;
+  align-items: center;
+  
+}
 
+<<<<<<< HEAD
 }
 
 .red{
@@ -77,3 +81,16 @@ header{
     
     
 }
+=======
+h2{
+  align-items: center;
+  color: #a99382;
+  font-size: 3rem;
+  margin-left: 20rem;
+  text-align: center;
+  
+
+  
+}
+
+>>>>>>> 7d015afc9596e776848f7ebb3a20322ab1820e06
