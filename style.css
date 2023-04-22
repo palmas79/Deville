@@ -12,6 +12,13 @@ body{
     font-family: 'Be Vietnam', sans-serif;
 
 }
+header{
+  height: 600px;
+  background-image: url(./img/DEVILLE_2756.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 
 .Arriba{
     display: flex;
