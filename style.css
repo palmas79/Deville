@@ -21,3 +21,10 @@ body{
     justify-content: center;
     align-items: center ;
 }
+
+.containerNav nav ul{
+    display: flex;;
+    justify-content: center;
+    gap: 120px;
+
+}
