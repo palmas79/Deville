@@ -22,6 +22,11 @@ body{
     align-items: center ;
 }
 
+.maincontainer{
+    display: flex;
+    justify-content: space-around;
+}
+
 .containerNav nav ul{
     display: flex;;
     justify-content: center;
