@@ -51,7 +51,6 @@ header{
 
 }
 
-<<<<<<< HEAD
 /*Aca empieza el main*/
 /* Section Black*/
 
@@ -60,10 +59,21 @@ header{
   margin-top: 2rem;
   justify-content: space-between;
 
-=======
+}
 
-.fotosred{
-    width: 1140px;
-    height: 635px;
->>>>>>> e373ddf34134775e26953594834b1ab9c5c1bf97
+.red{
+ 
+}
+.reduno{
+    width: 570;
+    height: 635;
+   background-image: url(./img/red1.jpg);
+    
+
+}
+
+.reddos{
+    background-image: url(./img/red2.jpg);
+    
+    
 }
