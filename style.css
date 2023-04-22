@@ -12,6 +12,8 @@ body{
     font-family: 'Be Vietnam', sans-serif;
 
 }
+/* Aca empieza el header */
+
 header{
   height: 600px;
   background-image: url(./img/DEVILLE_2756.jpg);
@@ -38,5 +40,15 @@ header{
     display: flex;;
     justify-content: center;
     gap: 120px;
+
+}
+
+/*Aca empieza el main*/
+/* Section Black*/
+
+.black{
+  display: flex;
+  margin-top: 2rem;
+  justify-content: space-between;
 
 }
