@@ -51,7 +51,6 @@ header{
 
 }
 
-<<<<<<< HEAD
 /*Aca empieza el main*/
 /* Section Black*/
 
@@ -59,11 +58,18 @@ header{
   display: flex;
   margin-top: 2rem;
   justify-content: space-between;
-
-=======
-
-.fotosred{
-    width: 1140px;
-    height: 635px;
->>>>>>> e373ddf34134775e26953594834b1ab9c5c1bf97
+  align-items: center;
+  
 }
+
+h2{
+  align-items: center;
+  color: #a99382;
+  font-size: 3rem;
+  margin-left: 20rem;
+  text-align: center;
+  
+
+  
+}
+
