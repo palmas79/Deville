@@ -13,7 +13,7 @@ body{
 
 }
 header{
-  height: 100%;
+  height: 600px;
   background-image: url(./img/DEVILLE_2756.jpg);
   background-size: cover;
   background-position: center;
@@ -47,4 +47,10 @@ header{
     color: whitesmoke;
     font-size: 1.4rem;
 
+}
+
+
+.fotosred{
+    width: 1140px;
+    height: 635px;
 }
