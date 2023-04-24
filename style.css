@@ -11,6 +11,7 @@
 
 body{
     font-family: 'Be Vietnam', sans-serif;
+    
 
 }
 /* Aca empieza el header */
@@ -56,11 +57,10 @@ background-repeat: no-repeat;
 /* Section Black*/
 
 .black{
-  display: flex;
-  margin-top: 2rem;
-  justify-content: space-between;
-  align-items: center;
-  
+    display: flex;
+    margin-top: 2rem;
+    justify-content: space-between;
+    align-items: center;  
 }
 
 
@@ -90,7 +90,39 @@ text-align: center;
 footer{
     background-color: #ebebeb;
     display: flex;
-    width: 100%;
+    flex-direction: column;
+    height: 500px;
+    justify-content: space-between;
+    width: 100vw;
+    
+}
+
+.containerSection{
+    display: flex;
+    
+}
+/*
+.containerSection section{
+    display: flex;
+    flex-direction: column;
+    
+}
+*/
+.logo{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 10px;
 
 }
+
+.logo img{
+    height: 100px;
+    width: 130px;
+    padding: 15px;
+}
+
+
 
