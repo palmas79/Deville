@@ -16,11 +16,11 @@ body{
 /* Aca empieza el header */
 
 header{
-  height: 600px;
-  background-image: url(./img/DEVILLE_2756.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+height: 600px;
+background-image: url(./img/DEVILLE_2756.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
 }
 
 .titulo{
@@ -63,15 +63,11 @@ header{
   
 }
 
-}
 
-.red{
- 
-}
 .reduno{
     width: 570;
     height: 635;
-   background-image: url(./img/red1.jpg);
+    background-image: url(./img/red1.jpg);
     
 
 }
@@ -82,13 +78,19 @@ header{
     
 }
 h2{
-  align-items: center;
-  color: #a99382;
-  font-size: 3rem;
-  margin-left: 20rem;
-  text-align: center;
-  
+align-items: center;
+color: #a99382;
+font-size: 3rem;
+margin-left: 20rem;
+text-align: center;    
+}
 
-  
+/* Aca empieza footer*/
+
+footer{
+    background-color: #ebebeb;
+    display: flex;
+    width: 100%;
+
 }
 
