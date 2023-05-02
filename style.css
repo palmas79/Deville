@@ -8,12 +8,11 @@
     list-style-type: none;
 }
 
-
 body{
-    font-family: 'Be Vietnam', sans-serif;
-    
+    font-family: 'Be Vietnam', sans-serif;   
 
 }
+
 /* Aca empieza el header */
 
 header{
@@ -50,7 +49,6 @@ background-repeat: no-repeat;
     gap: 120px;
     color: whitesmoke;
     font-size: 1.4rem;
-
 }
 
 /*Aca empieza el main*/
@@ -63,21 +61,19 @@ background-repeat: no-repeat;
     align-items: center;  
 }
 
-
 .reduno{
     width: 570;
     height: 635;
-    background-image: url(./img/red1.jpg);
-    
+    background-image: url(./img/red1.jpg);   
 
 }
 
 .reddos{
-    background-image: url(./img/red2.jpg);
-    
+    background-image: url(./img/red2.jpg);    
     
 }
-h2{
+
+.sweet{
 align-items: center;
 color: #a99382;
 font-size: 3rem;
@@ -93,8 +89,7 @@ footer{
     flex-direction: column;
     height: 500px;
     justify-content: space-between;
-    width: 100vw;
-    
+    width: 100vw;    
 }
 
 /* Empieza la Section Container*/
@@ -117,12 +112,10 @@ footer .containerSection section{
     gap: 20px;
     justify-content: center;
     margin-top: 20px;
-    padding: 10px;
-    
+    padding: 10px;    
 }
 
-.logo img{
-    
+.logo img{    
     height: 130px;
     margin-left: -12px;
     width: 150px;
@@ -158,27 +151,40 @@ footer .containerSection section{
     font-size: larger;
     font-weight: bold;
     margin-top: 50px;
-    margin-bottom: 15px;
-    
+    margin-bottom: 25px;    
 }
 
+.ayuda .h3{
+    line-height: 25px;
+    width: 400px;
+}
 /*Empieza la section deville*/
 
-
-.deville{
-    
+.deville{    
+    align-items: flex-start;
     color: #7A7A7A;    
     display: flex;
     flex-direction: column;
-    font-size: x-small;    
-    justify-content: space-around;
+    font-size: 12px;     
+    justify-content: center;  
+    margin-top: -10px;
+    margin-left: -120px;
     
 }
 
-.deville h2{
-    justify-content: flex-start;
+.deville h2{    
+    color: rgb(17, 6, 6);
+    font-size: larger;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 25px;
 }
-    
+
+.deville h3{
+    line-height: 25px;
+}
+
+
     
 
 
