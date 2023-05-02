@@ -106,18 +106,16 @@ footer{
 
 footer .containerSection section{
     height: 450px;
-    width: 480px;
-
+    width: 580px;
 }
-
 
 .logo{
     color: #7A7A7A;    
     display: flex;
     flex-direction: column;
     font-size: x-small;
-    gap: 5px;
-    justify-content: space-around;
+    gap: 20px;
+    justify-content: center;
     margin-top: 20px;
     padding: 10px;
     
@@ -126,12 +124,18 @@ footer .containerSection section{
 .logo img{
     
     height: 130px;
+    margin-left: -12px;
     width: 150px;
     padding: 15px;
 }
 
 .logo .shop{
-    margin-top: -10px;
+    margin-bottom: 15px;
+    margin-left: 30px;
+}
+
+.logo .ventas{
+    margin-left: 30px;
 }
 
 /* Empieza Section Ayuda */
@@ -142,16 +146,24 @@ footer .containerSection section{
     color: #7A7A7A;    
     display: flex;
     flex-direction: column;
-    font-size: x-small;    
-    justify-content: space-between;
+    font-size: 12px;    
+    justify-content: center;
+    margin-left: 60px;
+    padding: 40px;
     
 }
 
 .ayuda p{
     color: rgb(17, 6, 6);
+    font-size: larger;
+    font-weight: bold;
     margin-top: 50px;
     margin-bottom: 15px;
+    
 }
+
+/*Empieza la section deville*/
+
 
 .deville{
     
