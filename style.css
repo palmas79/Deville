@@ -1,5 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&display=swap');
-
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&family=Cardo:ital,wght@0,400;0,700;1,400&display=swap');
+</style>
 *{
     box-sizing: border-box;
     margin:0;
@@ -57,13 +58,16 @@ background-repeat: no-repeat;
 .black{
   display: flex;
   margin-top: 2rem;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
+
+  color: #A99382;
+  font-family: 'Cardo', serif;
+  font-size: 50px;
+  font-weight: 200;
   
 }
 
-<<<<<<< HEAD
-}
 
 .red{
  
@@ -80,16 +84,3 @@ background-repeat: no-repeat;
     background-image: url(./img/red2.jpg);    
     
 }
-=======
-h2{
-  align-items: center;
-  color: #a99382;
-  font-size: 3rem;
-  margin-left: 20rem;
-  text-align: center;
-  
-
-  
-}
-
->>>>>>> 7d015afc9596e776848f7ebb3a20322ab1820e06
